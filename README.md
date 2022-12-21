@@ -1,2 +1,2 @@
-# image-latex-basic-equation
-Image to LaTeX for basic math equation (im2latex-basicmath) dataset that includes a total of 210k formulas and images split into two: train set (180k) and test set (30k)
+# image-to-latex-basic-equation
+The dataset contains 210 image-to-latex for basic mathematical expressions (im2latex-basicmath) which is divided into two parts: test set (30k) and train set (180k).
